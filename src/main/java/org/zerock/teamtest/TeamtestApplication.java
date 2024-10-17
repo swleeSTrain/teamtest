@@ -10,5 +10,6 @@ public class TeamtestApplication {
         SpringApplication.run(TeamtestApplication.class, args);
     }
 
-    // test용 branch이름 feature/jaemin
+    // test용 branch이름 feature/jaemin 조금 더 추가
+
 }
